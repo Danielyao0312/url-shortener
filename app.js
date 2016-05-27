@@ -46,6 +46,7 @@ UrlSchema.pre('save', function (next) {
         }).catch(next)
 });
 
+
 // 为会话附加数据库连接
 app.use(function* (next) {
     this.mongoose = mongoose;
