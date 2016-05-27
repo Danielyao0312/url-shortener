@@ -31,7 +31,7 @@ Location: {:目标网址}
 > MONGOLAB_URI=mongodb://username:password@xxx.mongolab.com:0000/xxx
 
 ### domain
-> DOMAIN=http://sho.rt/
+> DOMAIN=http://03121/
 
 ## Mongodb Schema
 ### shorten
