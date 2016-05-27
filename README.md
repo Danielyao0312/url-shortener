@@ -13,13 +13,6 @@ POST /api/shorten
 long_url=http://...
 ```
 
-OR
-```
-{ 
-  "long_url": "http://..."
-}
-```
-
 ### decode
 ```
 GET /{:short_url}
